@@ -1,0 +1,12 @@
+pandas
+requests
+openpyxl
+scikit-learn
+matplotlib
+seaborn
+plotly
+folium
+streamlit
+geopandas
+pyarrow
+python-dotenv
