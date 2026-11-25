@@ -22,4 +22,4 @@ MIT. See [LICENSE](LICENSE).
 
 ---
 
-Built by [Nishant Iyer](https://www.konnectingnots.com), Senior Associate at Capital One.
+Built by [Nishant Iyer](https://nishant-iyer.github.io), Senior Associate at Capital One.
